@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: #F8FAFC;
+  color: #1F2937;
+}
+
+header<link rel="stylesheet" href="style.css">
+  padding: 60px 20px;
+  text-align: center;
+  background: #A8DADC;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.card {
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
